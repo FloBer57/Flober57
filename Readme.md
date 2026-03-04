@@ -41,24 +41,9 @@
 ## Metrics
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=FloBer57&show_icons=true&hide_border=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FloBer57&layout=compact&hide_border=true" alt="Top languages" />
-</div>
-
-<div align="center">
-  <img height="170" src="https://streak-stats.demolab.com?user=FloBer57&hide_border=true" alt="GitHub streak" />
-</div>
-
-<div align="center">
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=FloBer57&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&hide_border=true" alt="GitHub activity graph" />
 </div>
 
 <div align="center">
   <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FloBer57&theme=github_dark" alt="GitHub profile details" />
 </div>
-
-<div align="center">
-  <img width="95%" src="./github-metrics.svg" alt="Advanced GitHub metrics" />
-</div>
-
-![GitHub Snake](https://raw.githubusercontent.com/FloBer57/FloBer57/output/github-snake-dark.svg)
