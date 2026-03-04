@@ -1,129 +1,64 @@
-<div align="center">
+[![Anatix](logo/Anatix%20Full%20OrangeGold%20Logo.png)](https://anatix.fr)
 
-<!-- HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff41,100:0d1117&height=220&section=header&text=FloBer57&fontSize=80&fontColor=00ff41&fontAlignY=35&desc=%3E_%20Freelance%20Software%20Developer%20%7C%20Anatix&descSize=18&descColor=00ff41&descAlignY=55&animation=twinkling" width="100%" />
+<h1 align="center">Hi, I'm Florent Bernar</h1>
+<p align="center">aka <strong>FloBer57</strong> | Freelance Software Developer | Founder of Anatix</p>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=flober57.profile&left_color=royalblue&right_color=black" />
 
-<!-- TYPING ANIMATION -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%24+whoami+%E2%86%92+Florent+Bernar;%24+location+%E2%86%92+Metz%2C+France+%F0%9F%87%AB%F0%9F%87%B7;%24+stack+%E2%86%92+.NET+%7C+TypeScript+%7C+Microservices)](https://git.io/typing-svg)
+<h3 align="center">Languages and Tools</h3>
 
-<!-- VISITOR BADGE -->
-<img src="https://komarev.com/ghpvc/?username=FloBer57&style=for-the-badge&color=00ff41&label=PROFILE+VIEWS" />
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=dotnet,cs,py,js,ts,php,nodejs,nestjs,linux,docker,kubernetes,postgres,redis,mongodb,debian,rabbitmq,html,css,react,tailwind,github,githubactions&perline=11" alt="Skills and tools"/>
+  </a>
+</p>
 
-</div>
+## About Me
 
----
+- Freelance dev based in Metz, France.
+- Founder of **Anatix**: [anatix.fr](https://anatix.fr).
+- I build backend systems, APIs, and microservice architectures.
+- I also build websites.
+- Current project: **Anatix Generator**, a full microservice generator from a JSON spec.
 
-## `> cat about_me.txt`
 
-```bash
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│  ██╗███╗   ██╗██╗████████╗                                   │
-│  ██║████╗  ██║██║╚══██╔══╝                                   │
-│  ██║██╔██╗ ██║██║   ██║                                      │
-│  ██║██║╚██╗██║██║   ██║                                      │
-│  ██║██║ ╚████║██║   ██║                                      │
-│  ╚═╝╚═╝  ╚═══╝╚═╝   ╚═╝                                      │
-│                                                              │
-│  Name     : Florent Bernar                                   │
-│  Handle   : FloBer57                                         │
-│  Role     : Freelance Software Developer @ Anatix            │
-│  Location : Metz, France                                     │
-│  Degree   : Master's in Software Architecture                │
-│                                                              │
-│  Focus    : Backend · Microservices · Cloud Architecture      │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-```
+<p align="center">
+  <img height="60" src="logo/Anatix%20DarkBlue%20Logo.png" alt="Anatix DarkBlue duck logo" />
+  <img height="60" src="logo/Anatix%20Turquoise%20Logo.png" alt="Anatix Turquoise duck logo" />
+  <img height="60" src="logo/Anatix%20Gold%20Logo.png" alt="Anatix Gold duck logo" />
+  <img height="60" src="logo/Anatix%20Red%20Logo.png" alt="Anatix Red duck logo" />
+  <img height="60" src="logo/Anatix%20Violet%20Logo.png" alt="Anatix Violet duck logo" />
+  <img height="60" src="logo/Anatix%20Ciel%20Logo.png" alt="Anatix Ciel duck logo" />
+</p>
 
----
+## Connect
 
-## `> ls ./skills/`
+<p>
+  <a href="https://anatix.fr"><img src="https://img.shields.io/badge/Website-anatix.fr-111827?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
+  <a href="https://www.linkedin.com/in/florent-bernar"><img src="https://img.shields.io/badge/LinkedIn-florent--bernar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:contact@anatix.fr"><img src="https://img.shields.io/badge/Email-contact@anatix.fr-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
-<div align="center">
-
-### ⚡ Backend & Frameworks
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=dotnet,cs,py,ts,js,php,nodejs,express&theme=dark" />
-</a>
-
-### 🗄️ Data & Messaging
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=postgres,redis,rabbitmq,mongodb&theme=dark" />
-</a>
-
-### ☁️ DevOps & Cloud
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,nginx,git,github,githubactions&theme=dark" />
-</a>
-
-### 🖥️ Frontend
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=react,tailwind,html,css&theme=dark" />
-</a>
-
-</div>
-
----
-
-## `> neofetch --stats`
+## Metrics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FloBer57&show_icons=true&theme=chartreuse-dark&bg_color=0d1117&hide_border=true&icon_color=00ff41&title_color=00ff41&text_color=c9d1d9&ring_color=00ff41" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FloBer57&layout=compact&theme=chartreuse-dark&bg_color=0d1117&hide_border=true&title_color=00ff41&text_color=c9d1d9" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=FloBer57&show_icons=true&hide_border=true" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FloBer57&layout=compact&hide_border=true" alt="Top languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=FloBer57&theme=dark&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=555555" />
+  <img height="170" src="https://streak-stats.demolab.com?user=FloBer57&hide_border=true" alt="GitHub streak" />
 </div>
-
----
-
-## `> cat /var/log/contributions.log`
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FloBer57/FloBer57/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FloBer57/FloBer57/output/github-snake.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/FloBer57/FloBer57/output/github-snake-dark.svg" />
-  </picture>
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=FloBer57&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&hide_border=true" alt="GitHub activity graph" />
 </div>
-
-> ⚠️ **Pour activer le snake :** crée un workflow GitHub Actions dans ton repo `FloBer57/.github/workflows/snake.yml` — voir instructions en bas.
-
----
-
-## `> cat /etc/services/active`
-
-```
-🔧 Actuellement disponible en freelance pour :
-├── Consulting architecture backend / microservices
-├── Développement .NET / Node.js / TypeScript
-├── Mise en place d'infrastructures Docker / K8s
-└── Développement web fullstack (React / Tailwind)
-```
-
----
-
-## `> ip route show`
 
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/VOTRE_LINKEDIN/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00ff41?style=for-the-badge&logo=firefox&logoColor=0d1117)](https://anatix.fr)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@anatix.fr)
-
+  <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FloBer57&theme=github_dark" alt="GitHub profile details" />
 </div>
-
----
 
 <div align="center">
-
-<!-- FOOTER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff41,100:0d1117&height=120&section=footer" width="100%" />
-
-```
-[ system halt ] — thanks for visiting. EOF
-```
-
+  <img width="95%" src="./github-metrics.svg" alt="Advanced GitHub metrics" />
 </div>
+
+![GitHub Snake](https://raw.githubusercontent.com/FloBer57/FloBer57/output/github-snake-dark.svg)
