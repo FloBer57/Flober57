@@ -17,6 +17,7 @@
 <p align="center">
   <a href="https://lesentrecodeurs.com"><img src="https://img.shields.io/badge/Les%20EntreCodeurs-8048A8?style=for-the-badge&logoColor=white" alt="Les EntreCodeurs" /></a>
   <a href="https://www.linkedin.com/in/florent-bernar"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:f.bernar@lesentrecodeurs.com"><img src="https://img.shields.io/badge/Email-EA5153?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email" /></a>
   <img src="https://img.shields.io/badge/Metz-Grand%20Est,%20FR-EA5153?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Metz, France" />
   <img src="https://visitor-badge.laobi.icu/badge?page_id=flober57.profile&left_color=8048A8&right_color=EA5153" alt="Visitors" />
 </p>
@@ -49,6 +50,7 @@ distribuées** — de la modélisation des données jusqu'au déploiement.
 - 💼 Développeur chez **Les EntreCodeurs**
 - 🧠 Je creuse l'architecture distribuée et l'observabilité
 - 🤝 Ouvert aux échanges tech — [LinkedIn](https://www.linkedin.com/in/florent-bernar)
+- ✉️ [f.bernar@lesentrecodeurs.com](mailto:f.bernar@lesentrecodeurs.com)
 - 📍 Metz, Grand Est, France
 
 </td>
@@ -68,22 +70,11 @@ distribuées** — de la modélisation des données jusqu'au déploiement.
 ## GitHub in numbers
 
 <div align="center">
-  <img width="95%" src="github-metrics.svg" alt="Métriques GitHub : activité, langages, calendrier et habitudes" />
+  <img width="92%" src="github-metrics.svg" alt="Métriques GitHub : activité, langages, calendrier et habitudes" />
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FloBer57&theme=github_dark" alt="Profile details" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=FloBer57&hide_border=true&background=0D1117&ring=8048A8&fire=EA5153&currStreakLabel=8048A8&sideLabels=C9D1D9&sideNums=C9D1D9&currStreakNum=EA5153&dates=8B949E&stroke=8048A8" alt="Streak de contributions" />
-</div>
-
-<div align="center">
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FloBer57&theme=github_dark" alt="Répartition des langages par dépôt" />
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FloBer57&theme=github_dark" alt="Langages les plus commités" />
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=FloBer57&theme=github_dark&utcOffset=2" alt="Heures de production" />
-</div>
-
-<div align="center">
-  <img width="95%" src="https://ghchart.rshah.org/8048A8/FloBer57" alt="Heatmap des contributions" />
+  <img width="58%" src="https://streak-stats.demolab.com?user=FloBer57&hide_border=true&background=0D1117&ring=8048A8&fire=EA5153&currStreakLabel=8048A8&sideLabels=C9D1D9&sideNums=C9D1D9&currStreakNum=EA5153&dates=8B949E&stroke=8048A8" alt="Streak de contributions" />
 </div>
 
 ---
