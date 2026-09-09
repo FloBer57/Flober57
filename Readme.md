@@ -1,197 +1,92 @@
-[![Anatix](logo/Anatix%20Full%20OrangeGold%20Logo.png)](https://anatix.fr)
-
-<h1 align="center">Florent Bernar</h1>
-
-<p align="center">
-  <strong>Développeur logiciel freelance</strong> · Fondateur d’<strong>Anatix</strong>
-</p>
-
-<p align="center">
-  <em>Votre besoin métier, une solution Web.</em>
-</p>
-
-<p align="center">
-  <strong>J’accompagne les entreprises, indépendants et porteurs de projet dans la création de solutions web utiles, claires et adaptées à leur réalité métier.</strong>
-</p>
-
-<p align="center">
-  <a href="https://anatix.fr">
-    <img src="https://img.shields.io/badge/Website-anatix.fr-111827?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
+<div align="center">
+  <a href="https://lesentrecodeurs.com">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg" />
+      <img src="assets/banner-dark.svg" alt="Florent Bernar — Développeur chez Les EntreCodeurs" width="100%" />
+    </picture>
   </a>
-  <a href="https://www.linkedin.com/in/florent-bernar">
-    <img src="https://img.shields.io/badge/LinkedIn-florent--bernar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:contact@anatix.fr">
-    <img src="https://img.shields.io/badge/Email-contact@anatix.fr-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+</div>
+
+<h1 align="center">Hi, I'm Florent Bernar</h1>
+<p align="center">
+  aka <strong>FloBer57</strong> · Software Developer
+  <a href="https://lesentrecodeurs.com">@ Les EntreCodeurs</a>
 </p>
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=flober57.profile&left_color=111827&right_color=f59e0b" />
+<p align="center">
+  <a href="https://lesentrecodeurs.com"><img src="https://img.shields.io/badge/Les%20EntreCodeurs-8048A8?style=for-the-badge&logoColor=white" alt="Les EntreCodeurs" /></a>
+  <a href="https://www.linkedin.com/in/florent-bernar"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <img src="https://img.shields.io/badge/Metz-Grand%20Est,%20FR-EA5153?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Metz, France" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=flober57.profile&left_color=8048A8&right_color=EA5153" alt="Visitors" />
+</p>
 
 ---
 
-## À propos
+## <img src="assets/lec-logo-dark.svg#gh-dark-mode-only" height="26" alt="" /><img src="assets/lec-logo-light.svg#gh-light-mode-only" height="26" alt="" /> &nbsp;Where I work
 
-Je suis **Florent Bernar**, développeur logiciel freelance basé à **Metz**, et fondateur d’**Anatix**.
+> **« Un partenaire unique pour piloter et faire évoluer tout votre système IT »**
 
-Mon approche est simple : je ne pars pas du code, je pars du **besoin métier**.
+Je suis développeur chez **[Les EntreCodeurs](https://lesentrecodeurs.com)**, ESN du **groupe Alliances** —
+plus de **50 clients depuis 2021**, présents sur **6 villes** du Grand Est et au Luxembourg.
 
-Avant de développer une solution, je prends le temps de comprendre le contexte, les contraintes, les habitudes de travail et les objectifs du client. Pour moi, le but n’est pas seulement de livrer un site ou une application, mais de construire un outil réellement utile, compréhensible et adapté aux personnes qui vont l’utiliser au quotidien.
+<table>
+  <tr>
+    <td width="50%" valign="top">
 
-Petit-fils de commerçant, j’ai toujours accordé une grande importance au lien avec le client. Avec l’expérience, j’ai constaté qu’un projet mené sans échange régulier, sans écoute et sans suivi finit ni compréhension du besoin réel du métier est rarement par répondre exactement au besoin initial.
+**Ce qu'on fait**
 
-C’est pour cette raison qu’avec **Anatix**, je privilégie une relation de proximité, basée sur l’écoute, la clarté et l’accompagnement. J’interviens sur des projets web allant du site vitrine à l’application métier, en passant par les automatisations et les architectures plus avancées.
+- 🧩 Applications web & mobiles sur mesure
+- 🟣 Intégration **Odoo** (ERP) — *Odoo Learning Partner*
+- 🤖 Intelligence artificielle & agents autonomes
+- ☁️ Infogérance & cloud
+- 🔒 Cybersécurité
+- 🛒 E-commerce et solutions B2B
 
----
+</td>
+    <td width="50%" valign="top">
 
-## Ce que je propose avec Anatix
+**Mon terrain de jeu**
 
-### Sites web professionnels
+- ⚙️ Backends, APIs et architectures microservices
+- 🧱 Conception de services .NET / Node
+- 🗄️ Modélisation de données & performances SQL
+- 🚢 Docker, Kubernetes, CI/CD GitHub Actions
+- 🔌 Intégrations et modules Odoo
+- 🌐 Sites et applications front-end
 
-Création de sites vitrines modernes, rapides et adaptés à l’image de l’entreprise.
+</td>
+  </tr>
+</table>
 
-- Présentation d’activité
-- Mise en avant des services
-- Formulaire de contact
-- Design responsive
-- Hébergement et mise en ligne
-
-### Applications métier
-
-Développement d’outils web sur mesure pour répondre à un besoin concret.
-
-- Gestion interne
-- Tableaux de bord
-- Espaces utilisateurs
-- Automatisation de tâches répétitives
-- Interfaces simples pour des processus parfois complexes
-
-### Backend, API et architecture
-
-Conception de fondations techniques propres et évolutives.
-
-- API REST
-- Architecture backend
-- Microservices
-- Communication asynchrone
-- Docker, CI/CD et déploiement
-- Sécurité
-
-### Accompagnement client
-
-Le relationnel client est au cœur de ma manière de travailler.
-
-Je préfère avancer avec le client, étape par étape, plutôt que livrer une solution déconnectée de la réalité du terrain.
-
-L’objectif est de transformer une problématique métier en solution numérique claire, maintenable et réellement exploitable.
+<p align="center">
+  <a href="https://lesentrecodeurs.com">🌐 lesentrecodeurs.com</a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/company/lesentrecodeurs/">💼 LinkedIn</a> &nbsp;·&nbsp;
+  📍 7 rue Claude Chappe, 57070 Metz
+</p>
 
 ---
 
-## Mon parcours
-
-- **Mastère Développement & Ingénierie Informatique**  
-  Metz Numeric School
-
-- **Concepteur Développeur d’Applications — CDA**  
-  Niveau Bac +3, équivalent licence professionnelle
-
-- Fondateur d’**Anatix**
-
-- Développeur orienté backend, architecture logicielle et solutions web métier
-
----
-
-## Stack technique
+## Languages and Tools
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dotnet,cs,py,js,ts,php,nodejs,nestjs,linux,docker,kubernetes,postgres,redis,debian,rabbitmq,html,css,react,tailwind,github,githubactions&perline=11" alt="Skills and tools"/>
-  </a>
-</p>
-
-### Technologies principales
-
-- **Backend** : C#, .NET, Node.js, NestJS, TypeScript
-- **Frontend** : React, Tailwind
-- **Bases de données** : PostgreSQL, Redis
-- **Architecture** : Microservices, event-driven architecture, Monolitique
-- **DevOps** : Docker, GitHub Actions, Linux, K8s
-
----
-
-## Projet principal : Anatix Generator
-
-Je travaille actuellement sur **Anatix Generator**, un générateur de microservices basé sur une spécification JSON.
-
-L’objectif est de générer automatiquement une base complète de microservices avec :
-
-- controllers
-- services
-- repositories
-- DTO
-- entités
-- guards
-- consumers
-- events
-- configurations
-- tests
-- conventions de nommage
-- endpoints dynamiques
-- communication inter-services
-
-Ce projet représente une grande partie de mon travail autour de l’architecture, de l’automatisation et de la génération de code.
-
----
-
-## Ma vision
-
-Je crois qu’un bon développeur ne se limite pas à écrire du code.
-
-Un bon développeur doit aussi savoir :
-
-- écouter
-- comprendre un problème métier
-- vulgariser les choix techniques
-- proposer une solution adaptée
-- éviter la complexité inutile
-- livrer quelque chose de fiable et maintenable
-
-C’est cette approche que je veux porter avec **Anatix**.
-
-
-<p align="center">
-  <img height="60" src="logo/Anatix%20DarkBlue%20Logo.png" alt="Anatix DarkBlue duck logo" />
-  <img height="60" src="logo/Anatix%20Turquoise%20Logo.png" alt="Anatix Turquoise duck logo" />
-  <img height="60" src="logo/Anatix%20Gold%20Logo.png" alt="Anatix Gold duck logo" />
-  <img height="60" src="logo/Anatix%20Red%20Logo.png" alt="Anatix Red duck logo" />
-  <img height="60" src="logo/Anatix%20Violet%20Logo.png" alt="Anatix Violet duck logo" />
-  <img height="60" src="logo/Anatix%20Ciel%20Logo.png" alt="Anatix Ciel duck logo" />
-</p>
-
----
-
-## Me contacter
-
-<p>
-  <a href="https://anatix.fr">
-    <img src="https://img.shields.io/badge/Website-anatix.fr-111827?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
-  </a>
-  <a href="https://www.linkedin.com/in/florent-bernar">
-    <img src="https://img.shields.io/badge/LinkedIn-florent--bernar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:contact@anatix.fr">
-    <img src="https://img.shields.io/badge/Email-contact@anatix.fr-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://skillicons.dev/icons?i=dotnet,cs,py,js,ts,php,nodejs,nestjs,linux,docker,kubernetes,postgres,redis,mongodb,debian,rabbitmq,html,css,react,tailwind,github,githubactions&perline=11" alt="Skills and tools"/>
   </a>
 </p>
 
 ---
 
-## GitHub Activity
+## Metrics
 
 <div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=FloBer57&bg_color=0d1117&color=f59e0b&line=f59e0b&point=ffffff&area=true&hide_border=true" alt="GitHub activity graph" />
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=FloBer57&bg_color=0d1117&color=8048a8&line=ea5153&point=c9d1d9&area=true&hide_border=true" alt="GitHub activity graph" />
 </div>
 
 <div align="center">
   <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FloBer57&theme=github_dark" alt="GitHub profile details" />
+</div>
+
+<div align="center">
+  <sub>Assets et identité visuelle : <a href="https://lesentrecodeurs.com">Les EntreCodeurs</a></sub>
 </div>
