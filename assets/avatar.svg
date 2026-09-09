@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1000" viewBox="0 0 400 400" role="img" aria-label="Monogramme FB">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#241A38"/>
+      <stop offset="100%" stop-color="#150F22"/>
+    </linearGradient>
+    <linearGradient id="ink" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#B57BE0"/>
+      <stop offset="55%" stop-color="#8048A8"/>
+      <stop offset="100%" stop-color="#EA5153"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="400" fill="url(#bg)"/>
+  <circle cx="200" cy="200" r="150" fill="none" stroke="#8048A8" stroke-opacity="0.28" stroke-width="10"/>
+  <text x="200" y="200" text-anchor="middle" dominant-baseline="central"
+        font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="185"
+        font-weight="700" letter-spacing="-8" fill="url(#ink)">FB</text>
+  <rect x="150" y="316" width="100" height="10" rx="5" fill="#EA5153"/>
+</svg>
