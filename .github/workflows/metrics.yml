@@ -42,10 +42,8 @@ jobs:
           plugin_calendar: yes
           plugin_calendar_limit: 1
           plugin_lines: yes
-          plugin_achievements: yes
-          plugin_achievements_threshold: B
-          plugin_achievements_secrets: no
-          plugin_achievements_display: compact
-          plugin_achievements_limit: 0
+          # plugin_achievements desactive : il interroge les Projects (classic)
+          # supprimes par GitHub, la reponse GraphQL est donc en erreur.
+          plugin_achievements: no
           committer_branch: main
           committer_message: "chore: update github metrics"
