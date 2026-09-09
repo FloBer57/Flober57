@@ -70,11 +70,7 @@ distribuées** — de la modélisation des données jusqu'au déploiement.
 ## GitHub in numbers
 
 <div align="center">
-  <img width="92%" src="github-metrics.svg" alt="Métriques GitHub : activité, langages, calendrier et habitudes" />
-</div>
-
-<div align="center">
-  <img width="58%" src="https://streak-stats.demolab.com?user=FloBer57&hide_border=true&background=0D1117&ring=8048A8&fire=EA5153&currStreakLabel=8048A8&sideLabels=C9D1D9&sideNums=C9D1D9&currStreakNum=EA5153&dates=8B949E&stroke=8048A8" alt="Streak de contributions" />
+  <img width="92%" src="github-metrics.svg" alt="Métriques GitHub : activité, langages et calendrier de contributions" />
 </div>
 
 ---
