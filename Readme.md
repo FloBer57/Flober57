@@ -23,51 +23,39 @@
 
 ---
 
-## <img src="assets/lec-logo-dark.svg#gh-dark-mode-only" height="26" alt="" /><img src="assets/lec-logo-light.svg#gh-light-mode-only" height="26" alt="" /> &nbsp;Where I work
+## About me
 
-> **« Un partenaire unique pour piloter et faire évoluer tout votre système IT »**
-
-Je suis développeur chez **[Les EntreCodeurs](https://lesentrecodeurs.com)**, ESN du **groupe Alliances** —
-plus de **50 clients depuis 2021**, présents sur **6 villes** du Grand Est et au Luxembourg.
+Développeur basé à **Metz**, je conçois et fais tourner des **backends, des APIs et des architectures
+distribuées** — de la modélisation des données jusqu'au déploiement.
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-
-**Ce qu'on fait**
-
-- 🧩 Applications web & mobiles sur mesure
-- 🟣 Intégration **Odoo** (ERP) — *Odoo Learning Partner*
-- 🤖 Intelligence artificielle & agents autonomes
-- ☁️ Infogérance & cloud
-- 🔒 Cybersécurité
-- 🛒 E-commerce et solutions B2B
-
-</td>
-    <td width="50%" valign="top">
+    <td width="55%" valign="top">
 
 **Mon terrain de jeu**
 
-- ⚙️ Backends, APIs et architectures microservices
-- 🧱 Conception de services .NET / Node
+- ⚙️ Backends, APIs REST et architectures microservices
+- 🧱 Services **.NET / C#** et **Node / TypeScript**
 - 🗄️ Modélisation de données & performances SQL
 - 🚢 Docker, Kubernetes, CI/CD GitHub Actions
-- 🔌 Intégrations et modules Odoo
-- 🌐 Sites et applications front-end
+- 📨 Messagerie asynchrone (RabbitMQ, Redis)
+- 🌐 Applications et interfaces web
+
+</td>
+    <td width="45%" valign="top">
+
+**En ce moment**
+
+- 💼 Développeur chez **Les EntreCodeurs**
+- 🧠 Je creuse l'architecture distribuée et l'observabilité
+- 🤝 Ouvert aux échanges tech — [LinkedIn](https://www.linkedin.com/in/florent-bernar)
+- 📍 Metz, Grand Est, France
 
 </td>
   </tr>
 </table>
 
-<p align="center">
-  <a href="https://lesentrecodeurs.com">🌐 lesentrecodeurs.com</a> &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/company/lesentrecodeurs/">💼 LinkedIn</a> &nbsp;·&nbsp;
-  📍 7 rue Claude Chappe, 57070 Metz
-</p>
-
----
-
-## Languages and Tools
+### Languages and Tools
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -77,15 +65,50 @@ plus de **50 clients depuis 2021**, présents sur **6 villes** du Grand Est et a
 
 ---
 
-## Metrics
+## GitHub in numbers
 
 <div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=FloBer57&bg_color=0d1117&color=8048a8&line=ea5153&point=c9d1d9&area=true&hide_border=true" alt="GitHub activity graph" />
+  <img width="95%" src="github-metrics.svg" alt="Métriques GitHub : activité, langages, calendrier et habitudes" />
 </div>
 
 <div align="center">
-  <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FloBer57&theme=github_dark" alt="GitHub profile details" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FloBer57&theme=github_dark" alt="Profile details" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=FloBer57&hide_border=true&background=0D1117&ring=8048A8&fire=EA5153&currStreakLabel=8048A8&sideLabels=C9D1D9&sideNums=C9D1D9&currStreakNum=EA5153&dates=8B949E&stroke=8048A8" alt="Streak de contributions" />
 </div>
+
+<div align="center">
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FloBer57&theme=github_dark" alt="Répartition des langages par dépôt" />
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FloBer57&theme=github_dark" alt="Langages les plus commités" />
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=FloBer57&theme=github_dark&utcOffset=2" alt="Heures de production" />
+</div>
+
+<div align="center">
+  <img width="95%" src="https://ghchart.rshah.org/8048A8/FloBer57" alt="Heatmap des contributions" />
+</div>
+
+---
+
+## <img src="assets/lec-logo-dark.svg#gh-dark-mode-only" height="26" alt="" /><img src="assets/lec-logo-light.svg#gh-light-mode-only" height="26" alt="" /> &nbsp;Where I work
+
+> **« Un partenaire unique pour piloter et faire évoluer tout votre système IT »**
+
+**[Les EntreCodeurs](https://lesentrecodeurs.com)**, ESN du **groupe Alliances** — plus de **50 clients
+depuis 2021**, présents sur **6 villes** du Grand Est et au Luxembourg.
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Applications%20sur%20mesure-8048A8?style=flat-square&logoColor=white" alt="" />
+  <img src="https://img.shields.io/badge/Intégration%20Odoo-8048A8?style=flat-square" alt="" />
+  <img src="https://img.shields.io/badge/IA%20%26%20agents%20autonomes-8048A8?style=flat-square" alt="" />
+  <img src="https://img.shields.io/badge/Infogérance%20%26%20cloud-EA5153?style=flat-square" alt="" />
+  <img src="https://img.shields.io/badge/Cybersécurité-EA5153?style=flat-square" alt="" />
+  <img src="https://img.shields.io/badge/E--commerce%20%26%20B2B-EA5153?style=flat-square" alt="" />
+</p>
+
+<p align="center">
+  <a href="https://lesentrecodeurs.com">🌐 lesentrecodeurs.com</a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/company/lesentrecodeurs/">💼 LinkedIn</a> &nbsp;·&nbsp;
+  📍 7 rue Claude Chappe, 57070 Metz
+</p>
 
 <div align="center">
   <sub>Assets et identité visuelle : <a href="https://lesentrecodeurs.com">Les EntreCodeurs</a></sub>
