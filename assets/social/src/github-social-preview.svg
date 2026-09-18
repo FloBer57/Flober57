@@ -1,19 +1,17 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" fill="none" role="img" aria-label="Florent Bernar - Développeur IA chez Les EntreCodeurs">
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="640" viewBox="0 0 1280 640" fill="none" role="img" aria-label="Florent Bernar - Développeur IA chez Les EntreCodeurs">
 <defs>
   <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#150F22"/><stop offset="100%" stop-color="#241A38"/></linearGradient>
   <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#8048A8"/><stop offset="100%" stop-color="#EA5153"/></linearGradient>
   <linearGradient id="ink" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#B57BE0"/><stop offset="100%" stop-color="#EA5153"/></linearGradient>
   <radialGradient id="glowA" cx="0.5" cy="0.5" r="0.5"><stop offset="0%" stop-color="#8048A8" stop-opacity="0.5"/><stop offset="100%" stop-color="#8048A8" stop-opacity="0"/></radialGradient>
   <radialGradient id="glowB" cx="0.5" cy="0.5" r="0.5"><stop offset="0%" stop-color="#EA5153" stop-opacity="0.4"/><stop offset="100%" stop-color="#EA5153" stop-opacity="0"/></radialGradient>
-  <pattern id="grid" width="33" height="33" patternUnits="userSpaceOnUse"><path d="M33 0H0V33" fill="none" stroke="rgba(255,255,255,0.05)" stroke-width="1"/></pattern>
+  <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="rgba(255,255,255,0.05)" stroke-width="1"/></pattern>
 </defs>
-<clipPath id="round"><rect width="1200" height="320" rx="24"/></clipPath>
-<g clip-path="url(#round)">
-<rect width="1200" height="320" fill="url(#bg)"/>
-<rect width="1200" height="320" fill="url(#grid)"/>
-<circle cx="1008" cy="32" r="316.8" fill="url(#glowA)"/>
-<circle cx="1164" cy="304" r="288" fill="url(#glowB)"/>
-<g transform="translate(72, 13.319999999999993) scale(0.5283)"><path d="M29.1 23.9H5.6C2.5 23.9 0 26.4 0 29.5V69.7C0 72.8 2.5 75.3 5.6 75.3H45.8C48.9 75.3 51.4 72.8 51.4 69.7V44.2C40.1 43.4 30.8 34.9 29 23.9" fill="#8048A8"/>
+<rect width="1280" height="640" fill="url(#bg)"/>
+<rect width="1280" height="640" fill="url(#grid)"/>
+<circle cx="1075.2" cy="64" r="337.92" fill="url(#glowA)"/>
+<circle cx="1241.6" cy="608" r="307.2" fill="url(#glowB)"/>
+<g transform="translate(88, 133.51999999999998) scale(0.7925)"><path d="M29.1 23.9H5.6C2.5 23.9 0 26.4 0 29.5V69.7C0 72.8 2.5 75.3 5.6 75.3H45.8C48.9 75.3 51.4 72.8 51.4 69.7V44.2C40.1 43.4 30.8 34.9 29 23.9" fill="#8048A8"/>
 <path d="M33.2 19.9C33.2 30.9 42.1 39.8 53.1 39.8C64.1 39.8 73 30.9 73 19.9C73 8.9 64.1 0 53.1 0C42.1 0 33.2 8.9 33.2 19.9Z" fill="#EA5153"/>
 <path d="M74.2 72.4H87.6C88.4 72.4 88.5 72.7 88.5 73.3V75.3C88.5 75.8 88 75.8 87.6 75.8H70C69.2 75.8 69.1 75.5 69.1 74.9V40.6C69.1 39.8 69.4 39.7 70 39.7H73.3C74.1 39.7 74.2 39.9 74.2 40.6V72.4Z" fill="white"/>
 <path d="M98.6 58.5V72.5H112.4C113.1 72.5 113.4 72.5 113.4 73.3V74.9C113.4 75.7 113 75.7 112.4 75.7H94.6C93.8 75.7 93.6 75.7 93.6 74.8V40.9C93.6 40 93.8 39.7 94.6 39.7H112.4C113 39.7 113.4 39.7 113.4 40.5V42.4C113.4 42.9 113.1 43 112.5 43H98.7V55.3H110.3C110.9 55.3 111.3 55.3 111.3 56.1V58.1C111.2 58.5 110.9 58.6 110.4 58.6H98.6V58.5Z" fill="white"/>
@@ -33,23 +31,22 @@
 <path d="M209.6 102C209.6 103.1 209.6 103.8 208.7 104.3C208.4 104.5 207.1 105.1 205 105.1C202.9 105.1 202.3 104.6 201.8 104.2C201 103.5 200.8 102.6 200.8 101.5V93.5C200.8 93.2 200.8 93.1 201.2 93.1H202.4C202.7 93.1 202.8 93.1 202.8 93.5V101C202.8 102.1 202.8 103.7 205.3 103.7C207.8 103.7 207.6 102.4 207.6 101.3V93.6C207.6 93.4 207.6 93.2 207.9 93.1H209.1C209.5 93.1 209.6 93.1 209.6 93.5V101.9V102Z" fill="white"/>
 <path d="M214.2 104.4C214.2 104.8 214.1 104.8 213.8 104.8H212.7C212.4 104.8 212.2 104.8 212.2 104.4V95C212.2 94.2 212.2 93.9 212.8 93.6C213.5 93.2 214.9 92.8 216.4 92.8C217.9 92.8 218.7 93 218.7 94.1C218.7 95.2 218.3 95.1 217.8 95.1C217.3 95.1 217.2 94.9 216.9 94.5C216.6 94.2 216.3 93.9 215.7 93.9C214.4 93.9 214.3 94.9 214.3 95.5V104.4H214.2Z" fill="white"/>
 <path d="M224.1 98.2C225.3 98.8 226.8 99.6 226.8 101.7C226.8 103.8 226.4 103.6 225.7 104.2C224.8 105 223.5 105.1 223 105.1C220 105.1 219.1 103.2 219.1 102.6C219.1 102 219.6 101.6 220 101.6C220.4 101.6 220.8 102 220.9 102.2C220.9 102.3 221.1 102.5 221.2 102.7C221.5 103.2 222 103.8 223.1 103.8C224.2 103.8 224.8 102.9 224.8 102.1C224.8 100.7 223.6 100.2 222.6 99.7C220.8 98.8 219.2 98.1 219.2 96C219.2 93.9 220.3 92.9 222.8 92.9C225.3 92.9 226.3 94.5 226.3 95.2C226.3 95.9 225.9 96.1 225.5 96.1C225.1 96.1 224.7 95.7 224.5 95.3C224.3 94.9 223.8 94.1 222.8 94.1C221.8 94.1 221.1 95.1 221.1 95.7C221.1 97 222.2 97.5 223 97.8L224 98.3H224.1V98.2Z" fill="white"/></g>
-<rect x="72.0" y="102.4" width="66.2" height="4.6000000000000005" rx="2.3000000000000003" fill="url(#accent)"/>
-<text x="72" y="161.3" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="49.68" font-weight="700" fill="#FFFFFF">Florent Bernar</text>
-<text x="72" y="201.8" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="29.44" font-weight="600" fill="url(#ink)">Développeur IA</text>
-<text x="72" y="236.8" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="18.400000000000002" font-weight="500" fill="#B9AFCC">Les EntreCodeurs · Metz, Grand Est</text>
-<rect x="72.0" y="264.4" width="89.8" height="33.120000000000005" rx="16.560000000000002" fill="rgba(255,255,255,0.06)" stroke="rgba(255,255,255,0.14)"/>
-<text x="116.9" y="286.1" text-anchor="middle" font-family="Consolas, Menlo, monospace" font-size="14.72" fill="#C9A7E8">C#/.NET</text>
-<rect x="172.8" y="264.4" width="114.1" height="33.120000000000005" rx="16.560000000000002" fill="rgba(255,255,255,0.06)" stroke="rgba(255,255,255,0.14)"/>
-<text x="229.9" y="286.1" text-anchor="middle" font-family="Consolas, Menlo, monospace" font-size="14.72" fill="#C9A7E8">TypeScript</text>
-<rect x="752.64" y="68.0368" width="375.36" height="183.9264" rx="15.0144" fill="rgba(255,255,255,0.04)" stroke="rgba(255,255,255,0.10)"/>
-<circle cx="775.1616" cy="90.5584" r="5.1612" fill="#EA5153"/>
-<circle cx="793.9295999999999" cy="90.5584" r="5.1612" fill="#F0B429"/>
-<circle cx="812.6976" cy="90.5584" r="5.1612" fill="#8048A8"/>
-<text x="771.408" y="113.08" font-family="Consolas, Menlo, monospace" font-size="15.9528" fill="#EA5153">{</text>
-<text x="792.0528" y="139.4" font-family="Consolas, Menlo, monospace" font-size="15.9528" fill="#B9AFCC">"role": <tspan fill="#C9A7E8">&quot;Développeur IA&quot;</tspan>,</text>
-<text x="792.0528" y="165.6" font-family="Consolas, Menlo, monospace" font-size="15.9528" fill="#B9AFCC">"stack": <tspan fill="#C9A7E8">[&quot;C#/.NET&quot;, &quot;TS&quot;]</tspan>,</text>
-<text x="792.0528" y="191.9" font-family="Consolas, Menlo, monospace" font-size="15.9528" fill="#B9AFCC">"team": <tspan fill="#C9A7E8">&quot;Les EntreCodeurs&quot;</tspan></text>
-<text x="771.408" y="218.2" font-family="Consolas, Menlo, monospace" font-size="15.9528" fill="#EA5153">}</text>
-<rect y="314" width="1200" height="6" fill="url(#accent)"/>
-</g>
+<rect x="88.0" y="257.8" width="80.6" height="5.6000000000000005" rx="2.8000000000000003" fill="url(#accent)"/>
+<text x="88" y="329.5" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="60.480000000000004" font-weight="700" fill="#FFFFFF">Florent Bernar</text>
+<text x="88" y="378.8" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="35.84" font-weight="600" fill="url(#ink)">Développeur IA</text>
+<text x="88" y="421.4" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="22.400000000000002" font-weight="500" fill="#B9AFCC">Les EntreCodeurs · Metz, Grand Est</text>
+<rect x="88.0" y="455.0" width="109.3" height="40.32000000000001" rx="20.160000000000004" fill="rgba(255,255,255,0.06)" stroke="rgba(255,255,255,0.14)"/>
+<text x="142.7" y="481.4" text-anchor="middle" font-family="Consolas, Menlo, monospace" font-size="17.92" fill="#C9A7E8">C#/.NET</text>
+<rect x="210.8" y="455.0" width="138.9" height="40.32000000000001" rx="20.160000000000004" fill="rgba(255,255,255,0.06)" stroke="rgba(255,255,255,0.14)"/>
+<text x="280.2" y="481.4" text-anchor="middle" font-family="Consolas, Menlo, monospace" font-size="17.92" fill="#C9A7E8">TypeScript</text>
+<rect x="735.04" y="208.0448" width="456.96000000000004" height="223.9104" rx="18.2784" fill="rgba(255,255,255,0.04)" stroke="rgba(255,255,255,0.10)"/>
+<circle cx="762.4576" cy="235.4624" r="6.283200000000001" fill="#EA5153"/>
+<circle cx="785.3055999999999" cy="235.4624" r="6.283200000000001" fill="#F0B429"/>
+<circle cx="808.1536" cy="235.4624" r="6.283200000000001" fill="#8048A8"/>
+<text x="757.8879999999999" y="262.88" font-family="Consolas, Menlo, monospace" font-size="19.4208" fill="#EA5153">{</text>
+<text x="783.0207999999999" y="294.9" font-family="Consolas, Menlo, monospace" font-size="19.4208" fill="#B9AFCC">"role": <tspan fill="#C9A7E8">&quot;Développeur IA&quot;</tspan>,</text>
+<text x="783.0207999999999" y="326.9" font-family="Consolas, Menlo, monospace" font-size="19.4208" fill="#B9AFCC">"stack": <tspan fill="#C9A7E8">[&quot;C#/.NET&quot;, &quot;TS&quot;]</tspan>,</text>
+<text x="783.0207999999999" y="358.8" font-family="Consolas, Menlo, monospace" font-size="19.4208" fill="#B9AFCC">"team": <tspan fill="#C9A7E8">&quot;Les EntreCodeurs&quot;</tspan></text>
+<text x="757.8879999999999" y="390.8" font-family="Consolas, Menlo, monospace" font-size="19.4208" fill="#EA5153">}</text>
+<rect y="630" width="1280" height="10" fill="url(#accent)"/>
 </svg>

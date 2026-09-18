@@ -3,14 +3,14 @@
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg" />
       <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg" />
-      <img src="assets/banner-dark.svg" alt="Florent Bernar — Développeur chez Les EntreCodeurs" width="100%" />
+      <img src="assets/banner-dark.svg" alt="Florent Bernar — Développeur IA chez Les EntreCodeurs" width="100%" />
     </picture>
   </a>
 </div>
 
 <h1 align="center">Hi, I'm Florent Bernar</h1>
 <p align="center">
-  aka <strong>FloBer57</strong> · Software Developer
+  aka <strong>FloBer57</strong> · Développeur IA
   <a href="https://lesentrecodeurs.com">@ Les EntreCodeurs</a>
 </p>
 
@@ -26,8 +26,8 @@
 
 ## About me
 
-Développeur basé à **Metz**, je conçois et fais tourner des **backends, des APIs et des architectures
-distribuées** — de la modélisation des données jusqu'au déploiement.
+Développeur IA basé à **Metz**, j'intègre l'**IA générative et des agents** dans des applications
+métier — du prototype jusqu'à la mise en production, sur une base **C# / .NET** et **TypeScript**.
 
 <table>
   <tr>
@@ -35,11 +35,11 @@ distribuées** — de la modélisation des données jusqu'au déploiement.
 
 **Mon terrain de jeu**
 
-- ⚙️ Backends, APIs REST et architectures microservices
-- 🧱 Services **.NET / C#** et **Node / TypeScript**
+- 🤖 Intégration de LLM dans des applications métier
+- 🧠 Agents IA et automatisation de processus
+- 🧱 Services **C# / .NET** et **TypeScript**
+- ⚙️ APIs REST et backends
 - 🗄️ Modélisation de données & performances SQL
-- 🚢 Docker, Kubernetes, CI/CD GitHub Actions
-- 📨 Messagerie asynchrone (RabbitMQ, Redis)
 - 🌐 Applications et interfaces web
 
 </td>
@@ -47,8 +47,8 @@ distribuées** — de la modélisation des données jusqu'au déploiement.
 
 **En ce moment**
 
-- 💼 Développeur chez **Les EntreCodeurs**
-- 🧠 Je creuse l'architecture distribuée et l'observabilité
+- 💼 Développeur IA chez **Les EntreCodeurs**
+- 🧠 Je construis des solutions IA et des agents autonomes
 - 🤝 Ouvert aux échanges tech — [LinkedIn](https://www.linkedin.com/in/florent-bernar)
 - ✉️ [f.bernar@lesentrecodeurs.com](mailto:f.bernar@lesentrecodeurs.com)
 - 📍 Metz, Grand Est, France
@@ -61,7 +61,7 @@ distribuées** — de la modélisation des données jusqu'au déploiement.
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dotnet,cs,py,js,ts,php,nodejs,nestjs,linux,docker,kubernetes,postgres,redis,mongodb,debian,rabbitmq,html,css,react,tailwind,github,githubactions&perline=11" alt="Skills and tools"/>
+    <img src="https://skillicons.dev/icons?i=dotnet,cs,py,js,ts,php,nodejs,nestjs,linux,postgres,redis,mongodb,debian,rabbitmq,html,css,react,tailwind,github,githubactions&perline=11" alt="Skills and tools"/>
   </a>
 </p>
 
